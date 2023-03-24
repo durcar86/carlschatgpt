@@ -1,7 +1,7 @@
 # Getting Started with the Chat GPT
-1.
-2.
-3.
+1. npm start (run this command in the React app directory)
+2. node index.js (run this command to host the web services)
+3. check http://localhost:3000
 
 # Getting Started with Create React App
 
